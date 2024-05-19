@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+}
+
+.p1 img {
+    margin: 20px;
+}
+
+.b1 {
+    position: absolute;
+    top: 60px;
+    right: 40px;
+}
+
+.p1 {
+    background-image: url(./home-banner@2x.jpg);
+    background-size: 100% 100%;
+
+}
+
+.l1 {
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin-top: 2%;
+}
+
+.button1,
+.button2 {
+    width: 60px;
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    margin: 10px;
+}
+
+.button3 {
+
+    width: 120px;
+    height: 40px;
+    margin-right: 5px;
+    background-color: white;
+    color: rgb(36, 144, 203);
+    font-size: 20px;
+    border: 1px solid white;
+    margin: 10px;
+}
+
+.p2 {
+    background-color: #e4e3e3;
+    padding: 5px;
+}
+
+.p2 img {
+    height: 400px;
+}
+
+.p2 .l2 {
+    margin: 70px;
+}
+
+.button4 {
+    width: 200px;
+    height: 40px;
+}
+
+.p3 .img {
+    height: 100px;
+}
+
+.p3 .l3 {
+    margin: 70px;
+}
+
+.p3 .button5 {
+    width: 200px;
+    height: 40px;
+}
+
+.p3 .link_top {
+
+    height: 1px;
+    border-top: solid #b1aaaa 2px;
+}
+
+.p4 {
+
+    display: inline-block;
+}
+
+.l5 {
+    display: inline-block;
+    margin: 50px;
+
+}
+
+.l4 {
+    display: inline-block;
+    margin: 50px;
+}
+
+.l6 {
+    display: inline-block;
+    margin: 50px;
+}
+
+.p5 {
+    background-color: #b1aaaa;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
